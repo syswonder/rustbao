@@ -1,6 +1,6 @@
 # rustbao
 
-This project is a Rust version of [bao-demos](https://github.com/bao-project/bao-demos)
+This project is a Rust version of [bao-demos](https://github.com/bao-project/bao-demos).
 
 ## 概述
 
@@ -8,5 +8,5 @@ This project is a Rust version of [bao-demos](https://github.com/bao-project/bao
 
 ## 如何运行rustbao
 
-1. 运行make run，在qemu中启动rust-bao，一开始会进入uboot
-2. 在uboot命令行中输入go 0x50000000进入rustbao的镜像执行
+1. 运行make run，在qemu中启动rustbao，一开始会进入uboot。
+2. 在uboot命令行中输入go 0x50000000进入rustbao的镜像执行。
